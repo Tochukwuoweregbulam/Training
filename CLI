@@ -5,3 +5,5 @@ rm = delete
 pmd = current folder path
 cd .. = move one step back in the path
 clear = clear the trminal
+cp = copy file
+mv = move file
