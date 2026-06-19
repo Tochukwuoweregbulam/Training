@@ -1,0 +1,7 @@
+mkdir = make directory
+cd = current directory
+ls = list
+rm = delete
+pmd = current folder path
+cd .. = move one step back in the path
+clear = clear the trminal
