@@ -1,0 +1,13 @@
+git status = to check the status of the repository
+git init = create a new repository
+git add = to add to the staging area
+echo = to input txt or words in a file
+git commit = to commit changes
+git reseet = to reversed the state of a file or dir
+git log = to see commit history
+git log --oneline = to see commit history in a summarize format
+git branch = to create a new branch
+git merge = to merge two branches
+git push = to push a repository to a git tool like github
+git fetch = to fetch a directory without merging to local repository
+git pull = to fetch and merge a directory with local repository
